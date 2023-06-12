@@ -1,2 +1,2 @@
 #!/bin/bash
-ls - 1 sort -nk1,1 | tail -n 10 
+ls - t1 | head 
