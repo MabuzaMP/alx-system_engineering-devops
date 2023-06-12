@@ -1,2 +1,2 @@
 #!/bin/bash
-ls 0-hellofile
+cat 0-hellofile
