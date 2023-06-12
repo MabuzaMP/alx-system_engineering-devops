@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 2 root root   214 Jun 12 03:32 .
+drwxr-xr-x 6 root root   121 Jun 12 02:25 ..
+-rw-r--r-- 1 root root    35 Jun 12 02:27 0-hello_world
+-rw-r--r-- 1 root root    28 Jun 12 02:48 1-confused_smiley
+-rw-r--r-- 1 root root    27 Jun 12 02:50 2-hellofile
+-rw-r--r-- 1 root root    41 Jun 12 02:52 3-twofiles
+-rw-r--r-- 1 root root    29 Jun 12 02:54 4-lastlines
+-rw-r--r-- 1 root root    29 Jun 12 02:55 5-firstlines
+-rw-r--r-- 1 root root    26 Jun 12 02:57 6-third_line
+-rw-r--r-- 1 root root   102 Jun 12 03:28 7-file
+-rw------- 1 root root 12288 Jun 12 03:09 .7-file.swp
+-rw-r--r-- 1 root root    35 Jun 12 02:59 README.md
+-rw-r--r-- 1 root root     0 Jun 12 03:33 test.txt
